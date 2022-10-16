@@ -2,7 +2,7 @@
 ## Method
 **first step Import Excel file into knime using node Excel reader.**
 <p float="left">
- <img src="1.png" alt="data" width="500"/> 
+ <img src="1.png" alt="data" width="100"/> 
 </p>
 
 ## Tranform Data
