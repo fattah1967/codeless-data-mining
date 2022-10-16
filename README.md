@@ -1,5 +1,4 @@
-# codeless data mining
-
+# Knime-codeless-Al-quran-Test
 ## Overview
 ****The project is a text mining project which uses Ayah Al-Qur'an Surah Al-Fatihah for text mining by taking the text that each translator translates to find the similarity. By using the process of text mining, in text mining we used the knime program in text mining which was the first project. which the benefits of this project It is able to do a search engine that will be able to search the meaning and find the meaning of other translators as well.****
 ## Method
