@@ -208,12 +208,12 @@
 
 1. Add Column And Sort Column By ID
 <p float="left">
- <img src="37.png" alt="data" width="600"/> 
+ <img src="37.png" alt="data" width="500"/> 
 </p>
 
 2. Similarity View
 <p float="left">
- <img src="38.png" alt="data" width="600"/> 
+ <img src="38.png" alt="data" width="500"/> 
 </p>
 
 * Determines the translator to compare the similarity use Column ID.
