@@ -138,3 +138,40 @@
 <p float="left">
  <img src="26.png" alt="data" width="500"/> 
 </p>
+
+4. Using node Case Converter.
+<p float="left">
+ <img src="27.png" alt="data" width="100"/> 
+</p>
+
+* to change all character to be lowercase letter
+
+5. Using node Stop Word Filter.
+<p float="left">
+ <img src="28.png" alt="data" width="100"/> 
+</p>
+
+* to remove stop word.
+
+6. Using node POS Tagger, node Stanford.
+<p float="left">
+ <img src="29.png" alt="data" width="100"/> 
+</p>
+
+* to separate word Part of speech(nouns ,verbs , adverb etc.)
+
+7. Using node Standford Lammatizer.
+<p float="left">
+ <img src="30.png" alt="data" width="100"/> 
+</p>
+
+* to make the verb to be base form
+
+8. Using node Bag of Word Creator .
+<p float="left">
+ <img src="31.png" alt="data" width="100"/> 
+</p>
+
+* to create bag of word
+
+
