@@ -7,17 +7,17 @@
 
 ## Tranform Data
 <p float="left">
- <img src="2.png" alt="data" width="400"/> 
+ <img src="2.png" alt="data" width="500"/> 
 </p>
 
 1. Using Node Column Filter.
 <p float="left">
- <img src="3.png" alt="data" width="200"/> 
+ <img src="3.png" alt="data" width="100"/> 
 </p>
 
 * to remove a column that is not removed.
 <p float="left">
- <img src="4.png" alt="data" width="100"/> 
+ <img src="4.png" alt="data" width="500"/> 
 </p>
 
 2. Using node Transpose.
