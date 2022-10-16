@@ -208,7 +208,7 @@
 
 1. Add Column And Sort Column By ID
 <p float="left">
- <img src="37.png" alt="data" width="500"/> 
+ <img src="37.png" alt="data" width="200"/> 
 </p>
 
 2. Similarity View
