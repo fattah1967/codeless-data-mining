@@ -57,7 +57,7 @@
 
 * Remove all 6 columns and leave 1. Included columns.
 <p float="left">
- <img src="12.png" alt="data" width="100"/> 
+ <img src="12.png" alt="data" width="500"/> 
 </p>
 
 * Result
