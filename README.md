@@ -34,3 +34,13 @@
 <p float="left">
  <img src="7.png" alt="data" width="500"/> 
 </p>
+
+3. Using node Column Combiner.
+<p float="left">
+ <img src="8.png" alt="data" width="100"/> 
+</p>
+
+* Combine 7 columns into one column. and one new column will be added.
+<p float="left">
+ <img src="9.png" alt="data" width="500"/> 
+</p>
