@@ -177,4 +177,28 @@
 
 * to create bag of word
 
+## Model
+1. Using Node TF Node IDF.
+*  Model Use TF and IDE to find word frequencies.
+2. Using Node Math Formula.
+*  To TF and IDF are multiplied gether for more accurate results.
+<p float="left">
+ <img src="32.png" alt="data" width="300"/> 
+</p>
+
+**Result**
+<p float="left">
+ <img src="33.png" alt="data" width="500"/> 
+</p>
+
+3. Using Node Document Vector.
+<p float="left">
+ <img src="34.png" alt="data" width="100"/> 
+</p>
+
+* 
+**Result**
+<p float="left">
+ <img src="35.png" alt="data" width="500"/> 
+</p>
 
