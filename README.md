@@ -7,7 +7,7 @@
 
 ## Tranform Data
 <p float="left">
- <img src="2.png" alt="data" width="200"/> 
+ <img src="2.png" alt="data" width="400"/> 
 </p>
 
 1. Using Node Column Filter.
