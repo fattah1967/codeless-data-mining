@@ -45,7 +45,7 @@
  <img src="9.png" alt="data" width="500"/> 
 </p>
 
-#### Result
+* Result
 <p float="left">
  <img src="10.png" alt="data" width="500"/> 
 </p>
