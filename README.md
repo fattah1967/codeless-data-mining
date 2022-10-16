@@ -121,3 +121,20 @@
 <p float="left">
  <img src="23.png" alt="data" width="500"/> 
 </p>
+
+3. Using node Punctuation Erasure.
+<p float="left">
+ <img src="24.png" alt="data" width="100"/> 
+</p>
+
+* to remove punctuation (? , . () , : ; "") 
+ 
+ **Before**
+ <p float="left">
+ <img src="25.png" alt="data" width="300"/> 
+</p>
+
+**After**
+<p float="left">
+ <img src="26.png" alt="data" width="300"/> 
+</p>
