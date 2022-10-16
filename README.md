@@ -131,7 +131,7 @@
  
  **Before**
  <p float="left">
- <img src="25.png" alt="data" width="500"/> 
+ <img src="25.png" alt="data" width="700"/> 
 </p>
 
 **After**
@@ -155,7 +155,7 @@
 
 6. Using node POS Tagger, node Stanford.
 <p float="left">
- <img src="29.png" alt="data" width="100"/> 
+ <img src="29.png" alt="data" width="150"/> 
 </p>
 
 * to separate word Part of speech(nouns ,verbs , adverb etc.)
