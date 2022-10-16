@@ -32,7 +32,7 @@
 
 * After
 <p float="left">
- <img src="7(2).png" alt="data" width="500"/> 
+ <img src="10.png" alt="data" width="500"/> 
 </p>
 
 3. Using node Column Combiner.
