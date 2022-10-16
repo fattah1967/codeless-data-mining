@@ -49,3 +49,18 @@
 <p float="left">
  <img src="10.png" alt="data" width="500"/> 
 </p>
+
+4. Using node Colum Filter.
+<p float="left">
+ <img src="11.png" alt="data" width="100"/> 
+</p>
+
+* Remove all 6 columns and leave 1. Included columns.
+<p float="left">
+ <img src="12.png" alt="data" width="100"/> 
+</p>
+
+* Result
+<p float="left">
+ <img src="13.png" alt="data" width="100"/> 
+</p>
