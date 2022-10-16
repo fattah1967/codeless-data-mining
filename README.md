@@ -104,7 +104,7 @@
 
 * to change string to document 
 <p float="left">
- <img src="21.png" alt="data" width="100"/> 
+ <img src="21.png" alt="data" width="50"/> 
 </p>
 
 2. Using node Column Filter .
