@@ -22,15 +22,15 @@
 
 2. Using node Transpose.
 <p float="left">
- <img src="5.png" alt="data" width="100"/> 
+ <img src="5.png" alt="data" width="500"/> 
 </p>
 
 * Before
 <p float="left">
- <img src="6.png" alt="data" width="100"/> 
+ <img src="6.png" alt="data" width="500"/> 
 </p>
 
 * After
 <p float="left">
- <img src="7.png" alt="data" width="100"/> 
+ <img src="7.png" alt="data" width="500"/> 
 </p>
