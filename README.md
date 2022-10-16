@@ -119,5 +119,5 @@
 
 **Result**
 <p float="left">
- <img src="22.png" alt="data" width="500"/> 
+ <img src="23.png" alt="data" width="500"/> 
 </p>
