@@ -182,7 +182,7 @@
 2. Using Node Math Formula.
 *  To TF and IDF are multiplied gether for more accurate results.
 <p float="left">
- <img src="32.png" alt="data" width="300"/> 
+ <img src="32.png" alt="data" width="500"/> 
 </p>
 
 **Result**
