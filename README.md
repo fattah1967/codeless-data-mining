@@ -198,6 +198,6 @@
 * 
 **Result**
 <p float="left">
- <img src="35.png" alt="data" width="500"/> 
+ <img src="35.png" alt="data" width="600"/> 
 </p>
 
