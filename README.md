@@ -62,5 +62,5 @@
 
 * Result
 <p float="left">
- <img src="13.png" alt="data" width="100"/> 
+ <img src="13.png" alt="data" width="500"/> 
 </p>
