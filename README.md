@@ -64,3 +64,13 @@
 <p float="left">
  <img src="13.png" alt="data" width="500"/> 
 </p>
+
+5. Using node Column Appender + Node  Table Creator.
+<p float="left">
+ <img src="14.png" alt="data" width="100"/> 
+</p>
+
+* These 2 will add a new ID.
+<p float="left">
+ <img src="15.png" alt="data" width="500"/> 
+</p>
