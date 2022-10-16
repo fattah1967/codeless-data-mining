@@ -131,10 +131,10 @@
  
  **Before**
  <p float="left">
- <img src="25.png" alt="data" width="300"/> 
+ <img src="25.png" alt="data" width="500"/> 
 </p>
 
 **After**
 <p float="left">
- <img src="26.png" alt="data" width="300"/> 
+ <img src="26.png" alt="data" width="500"/> 
 </p>
