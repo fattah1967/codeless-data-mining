@@ -121,7 +121,7 @@
 
 **Result**
 <p float="left">
- <img src="23.png" alt="data" width="500"/> 
+ <img src="23.png" alt="data" width="300"/> 
 </p>
 
 3. Using node Punctuation Erasure.
@@ -198,6 +198,6 @@
 * 
 **Result**
 <p float="left">
- <img src="35.png" alt="data" width="600"/> 
+ <img src="35.png" alt="data" width="700"/> 
 </p>
 
