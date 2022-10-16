@@ -92,3 +92,32 @@
  <img src="18.png" alt="data" width="300"/> 
 </p>
 
+## Text Proccessing
+<p float="left">
+ <img src="19.png" alt="data" width="500"/> 
+</p>
+
+1. Using node String to document .
+<p float="left">
+ <img src="20.png" alt="data" width="100"/> 
+</p>
+
+* to change string to document 
+<p float="left">
+ <img src="21.png" alt="data" width="100"/> 
+</p>
+
+2. Using node Column Filter .
+<p float="left">
+ <img src="3.png" alt="data" width="100"/> 
+</p>
+
+* to remove unuse column 
+<p float="left">
+ <img src="22.png" alt="data" width="500"/> 
+</p>
+
+**Result**
+<p float="left">
+ <img src="22.png" alt="data" width="500"/> 
+</p>
