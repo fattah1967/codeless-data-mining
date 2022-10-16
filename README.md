@@ -203,17 +203,17 @@
 
 ## Similarity View(TF-IDF)
 <p float="left">
- <img src="36.png" alt="data" width="500"/> 
+ <img src="36.png" alt="data" width="700"/> 
 </p>
 
 1. Add Column And Sort Column By ID
 <p float="left">
- <img src="37.png" alt="data" width="500"/> 
+ <img src="37.png" alt="data" width="600"/> 
 </p>
 
 2. Similarity View
 <p float="left">
- <img src="38.png" alt="data" width="500"/> 
+ <img src="38.png" alt="data" width="600"/> 
 </p>
 
 * Determines the translator to compare the similarity use Column ID.
