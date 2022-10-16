@@ -72,5 +72,23 @@
 
 * These 2 will add a new ID.
 <p float="left">
- <img src="15.png" alt="data" width="500"/> 
+ <img src="15.png" alt="data" width="200"/> 
 </p>
+
+6. Using node String Manipulation.
+<p float="left">
+ <img src="16.png" alt="data" width="100"/> 
+</p>
+
+* Delete the dash or this – dash because it is not necessary.
+
+**Before**
+<p float="left">
+ <img src="17.png" alt="data" width="300"/> 
+</p>
+
+**After**
+<p float="left">
+ <img src="18.png" alt="data" width="300"/> 
+</p>
+
