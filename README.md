@@ -25,12 +25,12 @@
  <img src="6.png" alt="data" width="100"/> 
 </p>
 
-* Before
+**Before**
 <p float="left">
  <img src="9.png" alt="data" width="500"/> 
 </p>
 
-* After
+**After**
 <p float="left">
  <img src="5.png" alt="data" width="500"/> 
 </p>
@@ -45,7 +45,7 @@
  <img src="9.png" alt="data" width="500"/> 
 </p>
 
-* Result
+**Result**
 <p float="left">
  <img src="10.png" alt="data" width="500"/> 
 </p>
@@ -60,7 +60,7 @@
  <img src="12.png" alt="data" width="500"/> 
 </p>
 
-* Result
+**Result**
 <p float="left">
  <img src="13.png" alt="data" width="500"/> 
 </p>
@@ -72,7 +72,7 @@
 
 * These 2 will add a new ID.
 <p float="left">
- <img src="15.png" alt="data" width="200"/> 
+ <img src="15.png" alt="data" width="100"/> 
 </p>
 
 6. Using node String Manipulation.
