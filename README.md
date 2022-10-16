@@ -1,4 +1,7 @@
 # codeless data mining
+
+## Overview
+****The project is a text mining project which uses Ayah Al-Qur'an Surah Al-Fatihah for text mining by taking the text that each translator translates to find the similarity. By using the process of text mining, in text mining we used the knime program in text mining which was the first project. which the benefits of this project It is able to do a search engine that will be able to search the meaning and find the meaning of other translators as well.****
 ## Method
 **first step Import Excel file into knime using node Excel reader.**
 <p float="left">
@@ -104,7 +107,7 @@
 
 * to change string to document 
 <p float="left">
- <img src="21.png" alt="data" width="50"/> 
+ <img src="21.png" alt="data" width="70"/> 
 </p>
 
 2. Using node Column Filter .
