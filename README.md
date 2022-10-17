@@ -44,7 +44,7 @@
 
 * Combine 7 columns into one column. and one new column will be added.
 <p float="left">
- <img src="9.png" alt="data" width="500"/> 
+ <img src="39.png" alt="data" width="500"/> 
 </p>
 
 **Result**
