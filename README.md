@@ -195,8 +195,8 @@
  <img src="34.png" alt="data" width="100"/> 
 </p>
 
-* 
-**Result**
+* Total average of TF-IDF
+
 <p float="left">
  <img src="35.png" alt="data" width="700"/> 
 </p>
