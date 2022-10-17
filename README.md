@@ -218,7 +218,7 @@
 
 * sort in Document 
 <p float="left">
- <img src="42.png" alt="data" width="300"/> 
+ <img src="42.png" alt="data" width="100"/> 
 </p>
 
 3. Node RowID
@@ -228,7 +228,7 @@
 
 * sort ID
 <p float="left">
- <img src="43.png" alt="data" width="300"/> 
+ <img src="43.png" alt="data" width="100"/> 
 </p>
 
 4. Simmilarrity View
