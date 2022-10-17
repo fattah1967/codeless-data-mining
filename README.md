@@ -198,7 +198,7 @@
 * Total average of TF-IDF
 
 <p float="left">
- <img src="35.png" alt="data" width="700"/> 
+ <img src="35.png" alt="data" width="500"/> 
 </p>
 
 ## Similarity View(TF-IDF)
@@ -206,14 +206,44 @@
  <img src="36.png" alt="data" width="700"/> 
 </p>
 
-1. Add Column And Sort Column By ID
+1. Teble Cerattor,Clumn Apender
 <p float="left">
  <img src="37.png" alt="data" width="200"/> 
 </p>
 
-2. Similarity View
+2. Node Storter
 <p float="left">
- <img src="38.png" alt="data" width="500"/> 
+ <img src="44.png" alt="data" width="100"/> 
 </p>
 
-* Determines the translator to compare the similarity use Column ID.
+* sort in Document 
+<p float="left">
+ <img src="42.png" alt="data" width="500"/> 
+</p>
+
+3. Node RowID
+<p float="left">
+ <img src="46.png" alt="data" width="100"/> 
+</p>
+
+* sort ID
+<p float="left">
+ <img src="43.png" alt="data" width="500"/> 
+</p>
+
+4. Simmilarrity View
+<p float="left">
+ <img src="38.png" alt="data" width="600"/> 
+</p>
+
+* Determines the translator to compare the similarity use Column
+
+5. Node Column Reame 
+<p float="left">
+ <img src="47.png" alt="data" width="100"/> 
+</p>
+
+* change the name of Similarity 
+<p float="left">
+ <img src="48.png" alt="data" width="500"/> 
+</p>
