@@ -247,3 +247,11 @@
 <p float="left">
  <img src="48.png" alt="data" width="300"/> 
 </p>
+
+* 
+<p float="left">
+ <img src="49.png" alt="data" width="300"/> 
+</p>
+
+## Conclusion
+* In this project, i use tfi-df to create weight frequecy of words and use cosine method to measure the distance between 14 documents of surah Al-fatihah.And i got the highest similarity score- 0.85 and the lowest one is - 0.14
