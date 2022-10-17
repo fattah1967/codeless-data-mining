@@ -250,7 +250,7 @@
 
 * 
 <p float="left">
- <img src="49.png" alt="data" width="300"/> 
+ <img src="49.png" alt="data" width="500"/> 
 </p>
 
 ## Conclusion
