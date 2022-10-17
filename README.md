@@ -29,12 +29,12 @@
 
 **Before**
 <p float="left">
- <img src="9.png" alt="data" width="500"/> 
+ <img src="5.png" alt="data" width="500"/> 
 </p>
 
 **After**
 <p float="left">
- <img src="5.png" alt="data" width="500"/> 
+ <img src="9.png" alt="data" width="500"/> 
 </p>
 
 3. Using node Column Combiner.
